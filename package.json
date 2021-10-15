@@ -1,12 +1,17 @@
 {
-  "name": "@gajaguar/package-template",
+  "name": "@gajaguar/future-value",
   "version": "0.1.0",
-  "description": "A basic template for a npm package built with typescript.",
-  "private": true,
-  "keywords": [],
-  "homepage": "https://github.com/gajaguar/package-template#readme",
+  "description": "A simple calculator for the future value of an investment.",
+  "private": false,
+  "keywords": [
+    "future",
+    "calculator",
+    "finance",
+    "investment"
+  ],
+  "homepage": "https://github.com/gajaguar/future-value#readme",
   "bugs": {
-    "url": "https://github.com/gajaguar/package-template.git/issues"
+    "url": "https://github.com/gajaguar/future-value.git/issues"
   },
   "license": "MIT",
   "author": "G.A.JAGUAR <dev.gajaguar@gmail.com>",
@@ -14,7 +19,7 @@
   "files": ["dist"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gajaguar/package-template.git"
+    "url": "git+https://github.com/gajaguar/future-value.git"
   },
   "scripts": {
     "build": "tsc",
