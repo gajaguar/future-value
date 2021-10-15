@@ -1,6 +1,6 @@
-# package-template
+# future-value
 
-A basic template for a npm package built with typescript.
+A simple calculator for the future value of an investment.
 
 > by: [G.A.JAGUAR](https://github.com/gajaguar)
 
