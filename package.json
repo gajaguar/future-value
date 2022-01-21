@@ -1,6 +1,6 @@
 {
   "name": "@gajaguar/future-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple calculator for the future value of an investment.",
   "private": false,
   "keywords": [
