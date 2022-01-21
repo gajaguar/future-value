@@ -1,8 +1,16 @@
-# future-value
+# Future Value ![version](https://img.shields.io/github/v/tag/gajaguar/future-value?label=version) ![license](https://img.shields.io/github/license/gajaguar/future-value)
+
+> By: [G.A.JAGUAR](https://github.com/gajaguar)
 
 A simple calculator for the future value of an investment.
 
-> by: [G.A.JAGUAR](https://github.com/gajaguar)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![shell-script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Build Setup
 
